@@ -1,0 +1,22 @@
+body {
+    /*color from the page start*/
+    margin: 0;
+    font-family: sans-serif;
+}
+
+nav {
+    text-align: center;
+    background: #234465;
+    padding: 15px;
+}
+
+nav li {
+    padding: 0 20px;
+    display: inline-block;
+}
+
+nav li a {
+    color: white;
+    /*remove inderlined text*/
+    text-decoration: none;
+}
